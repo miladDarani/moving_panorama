@@ -1,3 +1,5 @@
+A very lightweight moving panorama genrator with option to add heading and control functions.
+
 * Instruction *
 
 1. [ mp ] - this is your base shortcode that will display nothing at this stage 
