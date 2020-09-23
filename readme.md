@@ -1,4 +1,4 @@
-A very lightweight moving panorama genrator with option to add heading and control functions.
+A very lightweight moving panorama genrator for Wordpress. Options to add heading and other control functions.
 
 * Instruction *
 
